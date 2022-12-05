@@ -2,5 +2,5 @@
 
 ## Java
 
-1. Meaningful method names
-2. Following naming convention
+1. Meaningful class, method, field names
+2. Following the Naming Convention
